@@ -13,7 +13,7 @@ Run script `generate_CV_2cycle.py`.
 
 <img width="887" height="633" alt="image" src="https://github.com/user-attachments/assets/c23f5c76-420e-4183-b7f2-307d99eed1ef" />
 
-*The first cycle of CV doesn't close the loop, while the second one does. This is because the concentration is uniform everywhere (no *R* has been created yet), there is no concentration gradient (**tdC/dx} = 0*) in the initial condition. However, *R* had been created during the first cycle scan, and it is still diffusing out into the solution.
+*The first cycle of CV doesn't close the loop, while the second one does. This is because the concentration is uniform everywhere (no *R* has been created yet), there is no concentration gradient (*dC/dx = 0*) in the initial condition. However, *R* had been created during the first cycle scan, and it is still diffusing out into the solution.
 
 ---
 
